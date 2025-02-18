@@ -17,4 +17,4 @@ By completing this project, I will have demonstrated:
 
 ---
 
-### Status: 🚀 In Progress  
+### Status: Completed  
